@@ -1,0 +1,6 @@
+﻿OrderID,ProductCategory,QuantityReturned,PurchaseAmount,ReasonForReturn,CustomerAccountAge,PreviousReturns,PreviousFraudReports,DeliveryType,ReturnCondition,RefundIssued,fraud
+1,Books,4,92.07,Not as described,340,0,0,Standard,Damaged,142.19,0
+2,Beauty & Health,4,61.24,No longer needed,899,12,1,Express,Opened,227.59,1
+3,Home & Garden,4,321.85,Wrong item,915,13,0,Express,Opened,175.91,0
+4,Beauty & Health,4,356.17,No longer needed,183,12,0,Standard,Damaged,90.51,0
+5,Beauty & Health,4,25.48,No longer needed,1443,3,0,Standard,Unopened,312.88,0
